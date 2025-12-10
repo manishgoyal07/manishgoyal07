@@ -1,21 +1,82 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Hi! I'm a Final Year Engineering Undergraduate Student at Guru Tegh Bahadur Institute of Technology, in the IT Branch. Proficient in C++ and javascript mainly, I have learned the importance of applying classical strategies to modern-day projects. After I graduate, my goal is to work as a Software Developer at one of the noble Organizations where I can contribute with my knowledge and skills.</h3>
+<h3 align="center">Backend Developer | Full Stack Developer | Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="manishgoyal07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishgoyal07" alt="manishgoyal07" /></a> </p>
-
-- 📫 How to reach me **manishgoyalbsr7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-goyal-47b454209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-goyal-47b454209" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:manishgoyalbsr7@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/manishgoyal17">💼 LinkedIn</a> •
+  <a href="https://github.com/manishgoyal07">🐙 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=manishgoyal07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishgoyal07&show_icons=true&locale=en&layout=compact" alt="manishgoyal07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishgoyal07&show_icons=true&locale=en" alt="manishgoyal07" /></p>
+### 👨‍💻 About Me
 
+I’m a **Software Developer** with **1.5 years of professional experience**, specializing in backend engineering and full-stack development. I build **scalable, high-performance systems** using **TypeScript, JavaScript, NodeJS, GraphQL, and MongoDB**.  
+
+My experience includes backend architecture, microservices, real-time WebSocket features, distributed systems, cloud workflows, and UI development with **ReactJS + Redux**. I enjoy creating reliable systems, solving challenging problems, and contributing to impactful products.
+
+---
+
+### 🚀 Professional Experience
+
+#### **Software Developer — Collegedunia**  
+*Gurugram, Haryana | Sep 2024 — Present*  
+Contributing to large-scale platforms by developing backend services, cloud-based workflows, automation systems, and internal tools. Working with **TypeScript, NestJS, GraphQL, MongoDB, AWS**, and **ReactJS** to improve scalability, performance, and internal efficiency.
+
+#### **Full Stack Developer Intern — CodeClause**  
+*Remote | Sep 2023 — Oct 2023*  
+Developed a real-time chat application using **ReactJS**, **WebSockets**, **NodeJS**, and **MongoDB**, focusing on smooth communication, authentication, and responsive UI/UX.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, Python, C++
+
+**Backend:**  
+NodeJS, ExpressJS, NestJS, GraphQL, REST APIs, WebSockets, ElasticSearch
+
+**Frontend:**  
+ReactJS, Redux, Context API, HTML, CSS, Tailwind CSS
+
+**Databases:**  
+MongoDB, MySQL, Redis, Clickhouse
+
+**DevOps / Tools:**  
+Git, AWS (Lambda, S3, EC2), Grafana, Telegraf, PM2
+
+---
+
+### 🎓 Education
+
+**B.Tech in Information Technology (8.9 CGPA)**  
+Guru Tegh Bahadur Institute of Technology, GGSIPU (2020–2024)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/manishgoyal17" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="mailto:manishgoyalbsr7@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manishgoyal07&layout=compact&hide_border=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manishgoyal07&show_icons=true&hide_border=true" />
+</p>
